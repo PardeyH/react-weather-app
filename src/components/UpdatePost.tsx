@@ -1,4 +1,4 @@
-export default function UpdatePost() {
+export function UpdatePost() {
     return (
         <p>Update Post...</p>
     );

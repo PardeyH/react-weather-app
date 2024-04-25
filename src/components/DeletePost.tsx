@@ -1,4 +1,4 @@
-export default function DeletePost() {
+export function DeletePost() {
     return (
         <p>Delete Post...</p>
     );
